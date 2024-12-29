@@ -1,0 +1,3 @@
+# E Prossinger
+- [`experiments`](experiments) contains various notebooks from the exploratory and initial modelling phase of this project. The code used to train the models used in the final project was then moved to the [`shared_notebooks`](../../shared_notebooks/) folders.
+- [`image_classification`](image_classification) contains a side-project training an image classifier to determine the mode of transportation from an image. Here a resnet model was fine-tuned using the fast.ai library. The resulting classifier was also included in the [Streamlit app](https://carbonfeet.streamlit.app).
